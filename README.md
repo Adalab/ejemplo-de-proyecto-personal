@@ -29,4 +29,4 @@ Me gustaría tener una aplicación web me facilitara la vida con las siguientes 
 
 ## Fases del proyecto
 
-- [Fase 1](.FASE-1.md)
+- [Fase 1](./FASE-1.md)
