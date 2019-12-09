@@ -24,7 +24,9 @@ Voy a necesitar:
 
 ### 2. Prototipo
 
-<iframe src="https://marvelapp.com/d951i97?emb=1&iosapp=false&frameless=false" width="100%" height="700" allowTransparency="true" frameborder="0"></iframe>
+[Prototipo en vivo](https://marvelapp.com/d951i97)
+
+![Prototype](./info/phase-01-prototype.png)
 
 ### 3. Planificación
 
