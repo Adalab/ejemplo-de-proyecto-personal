@@ -26,7 +26,7 @@ Voy a necesitar:
 
 [Prototipo en vivo](https://marvelapp.com/d951i97)
 
-![Prototype](./info/phase-01-prototype.png)
+![Prototype](./info/fase-01-prototipo.png)
 
 ### 3. Planificación
 
