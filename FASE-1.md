@@ -4,7 +4,7 @@
 
 #### Descripción
 
-En esta primera fase voy a partir de supuesto de que estamos en la segunda semana de curso. La semana pasada ya hubo pair programming. Ahora tengo que generar un listado de parejas aleatorias con una sola condición: **que no se repita ningunca pareja**.
+En esta primera fase voy a partir de supuesto de que estamos en la segunda semana de curso. La semana pasada ya hubo pair programming. Ahora tengo que generar un listado de parejas aleatorias con una sola condición: **que no se repita ninguna pareja**.
 
 Para lo cual quiero:
 
