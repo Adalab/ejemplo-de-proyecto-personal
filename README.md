@@ -27,6 +27,6 @@ Me gustaría tener una aplicación web me facilitara la vida con las siguientes 
 - Quiero que coja el listado de alumnas de la herramienta Airtable (herramienta donde guardamos toda la información de las alumnas).
 - Quiero que al pulsar en el botón **Guardar** me guarde las nuevas parejas en Airtable.
 
-## Fases del proyecto
+## Fases o sprints del proyecto
 
-- [Fase 1](./FASE-1.md)
+- [Fase / sprint 1](./FASE-1.md)
