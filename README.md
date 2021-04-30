@@ -15,7 +15,7 @@ Mis objetivos personales con este proyecto son:
 
 ## Objetivo del proyecto
 
-Como profesora de Adalab tengo que elegir las parejas de pair programming todas las semanas. Ahora mismo estamos utilizando una tecnología que nos ayuda a salir del paso pero que no nos facilita mucho la vida: las spreadsheet de Google Drive.
+Como profesora de Adalab tengo que generar las parejas de pair programming todas las semanas. Ahora mismo estamos utilizando una tecnología que nos ayuda a salir del paso pero que no nos facilita mucho la vida: las spreadsheet de Google Drive.
 
 Me gustaría tener una aplicación web me facilitara la vida con las siguientes características:
 
