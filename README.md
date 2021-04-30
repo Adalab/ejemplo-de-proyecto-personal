@@ -20,7 +20,7 @@ Como profesora de Adalab tengo que generar las parejas de pair programming todas
 Me gustaría tener una aplicación web me facilitara la vida con las siguientes características:
 
 - Quiero una interfaz de usuario:
-  - que me muestre el listado completo de alumnas de un turno
+  - que me muestre el listado completo de alumnas de una promo
   - que me permita arrastrar y soltar para juntar a alumnas en una pareja
   - que me muestre un aviso o marca si estoy creando una pareja ya repetida en semanas anteriores
 - Quiero un botón que me genere las parejas aleatoriamente y sin repeticiones por si me da el perezote
