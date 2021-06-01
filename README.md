@@ -2,6 +2,8 @@
 
 > Este repo es un ejemplo de cómo realizar un side project. Pero vamos que si quieres contribuir, no te lo pienses!!!
 
+# Fase inicial
+
 ## Objetivos personales
 
 Mis objetivos personales con este proyecto son:
@@ -27,6 +29,6 @@ Me gustaría tener una aplicación web me facilitara la vida con las siguientes 
 - Quiero que coja el listado de alumnas de la herramienta Airtable (herramienta donde guardamos toda la información de las alumnas).
 - Quiero que al pulsar en el botón **Guardar** me guarde las nuevas parejas en Airtable.
 
-## Fases o sprints del proyecto
+# Fases o sprints del proyecto
 
 - [Fase / sprint 1](./FASE-1.md)
